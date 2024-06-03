@@ -1,2 +1,2 @@
 # JMahia22
-new repo
+new repository
